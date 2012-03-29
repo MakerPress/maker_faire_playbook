@@ -35,7 +35,7 @@ It’s hard to describe just what Maker Faire is. Yet, there is a mindset that i
 
 Finally, Maker Faire is about exhibition, not competition. We don’t see makers competing against each other. We hope each maker gets positive feedback on what they exhibited, and that the feedback is useful to them.
 
-Keep these in mind, and do refer back to our online introduction to producing a Mini Maker Faire (also in this document as an Introduction), &lt;&lt;so_you_want_to_make_a_maker_fairequestio&gt;&gt;, for grounding and guidance. But of course, there’s nothing quite like experiencing a link:$$http://www.google.com/url?q=http%3a%2f%2fmakerfaire.com&amp;sa=d&amp;sntz=1&amp;usg=afqjcneiauziocsariowm8-hkcnebqmknq$$[Maker Faire] yourself to fully understand and appreciate the wonders of Maker Faire.
+Keep these in mind, and do refer back to our online introduction to producing a Mini Maker Faire (also in this document as an Introduction), <<so_you_want_to_make_a_maker_fairequestio>>, for grounding and guidance. But of course, there’s nothing quite like experiencing a link:$$http://www.google.com/url?q=http%3a%2f%2fmakerfaire.com&amp;sa=d&amp;sntz=1&amp;usg=afqjcneiauziocsariowm8-hkcnebqmknq$$[Maker Faire] yourself to fully understand and appreciate the wonders of Maker Faire.
 
 
 [[engaging_the_community]]
@@ -86,7 +86,7 @@ Downsides can include lack of clarity when it comes to division of labor and res
 
 If you are a smaller community group that specializes in one subject (say a hacker club), you might reach across the Maker Faire spectrum and propose a collaboration with another local organization of a similar scale but completely different focus. For example, perhaps the hackerspace partners with the local 4-H chapter, or a kite-making group.
 
-Other partnerships opportunities can include educational institutions, museums, associations, neighborhood organizations, and clubs. And there are also business partners—any kind of local company that designs and/or makes things—that can partner both as a “sponsor” partner (see section on &lt;&lt;sponsorship&gt;&gt;) and also possibly as a event co-sponsor.
+Other partnerships opportunities can include educational institutions, museums, associations, neighborhood organizations, and clubs. And there are also business partners—any kind of local company that designs and/or makes things—that can partner both as a “sponsor” partner (see section on <<sponsorship>>) and also possibly as a event co-sponsor.
 
 
 [[spreading_the_idea]]
@@ -137,10 +137,10 @@ Typical committee or team leadership roles (and their domains) are:
 * Accounting (budgets)
 
 
-* Onsite Operations &amp; Logistics (electrical, sound, seating)
+* Onsite Operations & Logistics (electrical, sound, seating)
 
 
-* Marketing &amp; Promotions (setting up a website, getting the word out, public relations, day-of event documentation)
+* Marketing & Promotions (setting up a website, getting the word out, public relations, day-of event documentation)
 
 
 * Design (posters, maps, signage)
@@ -155,7 +155,7 @@ Typical committee or team leadership roles (and their domains) are:
 * Volunteer Coordination (recruitment, management)
 
 
-* Stage &amp; Performances Manager
+* Stage & Performances Manager
 
 
 * Workshop Manager
@@ -179,16 +179,16 @@ _Shared Roles:_ Obviously every Leadership Team is going to be different. Our Le
 * Business Sponsorship
 
 
-* Marketing &amp; Promotions
+* Marketing & Promotions
 
 
 * Media Sponsorships
 
 
-* Website Design &amp; Production
+* Website Design & Production
 
 
-* Blogging &amp; Tweeting
+* Blogging & Tweeting
 
 But we also had identifiable strengths, as well as different levels of availability. (For example, Leader 1 was able to devote three full-time months to the production of our Mini Maker Fair.) We broke down our tasks like this:
 
@@ -210,10 +210,10 @@ _Leader 1’s Primary Roles:_
 * Maker Communications
 
 
-* Site Planning &amp; Layout
+* Site Planning & Layout
 
 
-* Onsite Operations &amp; Logistics (electrical, sound, staging)
+* Onsite Operations & Logistics (electrical, sound, staging)
 
 
 * Food
@@ -221,7 +221,7 @@ _Leader 1’s Primary Roles:_
 _Leader 2’s Primary Roles:_
 
 
-* Ticketing &amp; Registration Backend
+* Ticketing & Registration Backend
 
 
 * Workshop Curation
@@ -253,7 +253,7 @@ _Leader 4’s Primary Roles — Employee of Benefiting Organization (School):_
 
 Next year we hope for another leadership ream member whose primary focus will be sponsorship. Since our event is a charitable fundraiser, sponsorship is key to making the event raise more funds.
 
-And of course, as we got closer to the event we involved many more people (see &lt;&lt;mobilizing_a_volunteer_team&gt;&gt; for roles that came alive the week-of and day-of event.)
+And of course, as we got closer to the event we involved many more people (see <<mobilizing_a_volunteer_team>> for roles that came alive the week-of and day-of event.)
 
 
 [[getting_everyone_together]]
@@ -286,13 +286,13 @@ Here’s a sample agenda to help you imagine that first partnership meeting:
 
 . _Makers:_It will be really hard to avoid everyone piping up to share ideas for makers who should be invited to your Maker Faire. End the gathering this way, with someone taking copious notes!
 
-&lt;&lt;getting_everyone_together&gt;&gt; is a constant opportunity throughout the Mini Maker Faire process. Making a party of chores is what keeps volunteers coming back! Here are some more gathering moments to look for and create throughout the event process:
+<<getting_everyone_together>> is a constant opportunity throughout the Mini Maker Faire process. Making a party of chores is what keeps volunteers coming back! Here are some more gathering moments to look for and create throughout the event process:
 
 
 * Call for Makers is Open! Meet-up or Potluck
 
 
-* Venue Open House and Q&amp;A
+* Venue Open House and Q&A
 
 
 * Sign-making parties
@@ -412,7 +412,7 @@ Hint_In the San Francisco Bay Area, the bicycle advocacy organizations offer bik
 
 ===== Electrical Grid
 
-You’re going to need to distribute power to some of your makers (estimate 5 amps per Maker to get a sense of your needs). You’ll also need power at registration, stages, and food vendor booths. How much power does your venue make available for your distribution? How distributed is it? Will you need to rent distribution boxes and extensive cabling? Will you need to rent generators because this venue does not have enough? (See &lt;&lt;equipment_solidus_special_requirements&gt;&gt; for more on electricity.)
+You’re going to need to distribute power to some of your makers (estimate 5 amps per Maker to get a sense of your needs). You’ll also need power at registration, stages, and food vendor booths. How much power does your venue make available for your distribution? How distributed is it? Will you need to rent distribution boxes and extensive cabling? Will you need to rent generators because this venue does not have enough? (See <<equipment_solidus_special_requirements>> for more on electricity.)
 
 
 [[internet_access]]
@@ -426,7 +426,7 @@ Does the facility already offer a WiFi network or will you have to set up your o
 
 ===== Equipment
 
-Find out what comes with the rental of your venue and what does not. (See &lt;&lt;equipment_solidus_special_requirements&gt;&gt; and &lt;&lt;resources-id00005&gt;&gt; sections.)
+Find out what comes with the rental of your venue and what does not. (See <<equipment_solidus_special_requirements>> and <<resources-id00005>> sections.)
 
 
 [options="normal"]
