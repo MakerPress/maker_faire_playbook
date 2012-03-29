@@ -18,42 +18,42 @@ _If you are using a PDF viewer to read this document, be sure to open the sideba
 Here are the major sections:
 
 
-* &lt;&lt;introduction&gt;&gt;
+* <<introduction>>
 
 
-* &lt;&lt;mindset_of_maker_faire&gt;&gt;
+* <<mindset_of_maker_faire>>
 
 
-* &lt;&lt;engaging_the_community&gt;&gt;
+* <<engaging_the_community>>
 
 
-* &lt;&lt;planning_the_event&gt;&gt;
+* <<planning_the_event>>
 
 
-* &lt;&lt;finding_and_recruiting_of_makers&gt;&gt;
+* <<finding_and_recruiting_of_makers>>
 
 
-* &lt;&lt;working_with_maker_faire&gt;&gt;
+* <<working_with_maker_faire>>
 
 
-* &lt;&lt;funding_your_maker_faire&gt;&gt;
+* <<funding_your_maker_faire>>
 
 
-* &lt;&lt;designing_your_maker_faire&gt;&gt;
+* <<designing_your_maker_faire>>
 
 
-* &lt;&lt;producing_the_event&gt;&gt;
+* <<producing_the_event>>
 
 
-* &lt;&lt;marketing_the_event&gt;&gt;
+* <<marketing_the_event>>
 
 
-* &lt;&lt;week-of_and_day-of_event&gt;&gt;
+* <<week-of_and_day-of_event>>
 
 
-* &lt;&lt;after_your_maker_faire&gt;&gt;
+* <<after_your_maker_faire>>
 
 
-* &lt;&lt;index_of_assets&gt;&gt;
+* <<index_of_assets>>
 
 This Playbook was conceived as a living document that will improve over time, as various Mini Maker Faire producers iterate and refine production methodologies that work. This is but a start. Please dig in, and let Maker Faire grow!
