@@ -1,0 +1,59 @@
+[[welcome_to_the_mini_maker_faire_playbook]]
+
+== Welcome to the Mini Maker Faire Playbook
+
+We’d like to help you produce a great Mini Maker Faire in your local community. The Maker Faire Playbook shares the knowledge and experience from those people that created Maker Faire as well as those who have already produced a Mini Maker Faire. The playbook is written for the local organizer who serves as a representative of the Maker Faire community at large and well as a leader and producer of the local event.
+
+We have published this document so that it might grow and reflect new practices and current experiences. If you are reading this in a PDF format and would like to contribute comments via email, please address them to minimakerfaire@oreilly.com.
+
+
+[[navigating_the_playbook]]
+
+=== Navigating the Playbook
+
+This Playbook is organized to help guide you from conception and initial steps, through the event design and production process, all the way to your post-mortem evaluation and application for next year.
+
+_If you are using a PDF viewer to read this document, be sure to open the sidebar or bookmark bar to access the hyperlinked table of contents._
+
+Here are the major sections:
+
+
+* &lt;&lt;introduction&gt;&gt;
+
+
+* &lt;&lt;mindset_of_maker_faire&gt;&gt;
+
+
+* &lt;&lt;engaging_the_community&gt;&gt;
+
+
+* &lt;&lt;planning_the_event&gt;&gt;
+
+
+* &lt;&lt;finding_and_recruiting_of_makers&gt;&gt;
+
+
+* &lt;&lt;working_with_maker_faire&gt;&gt;
+
+
+* &lt;&lt;funding_your_maker_faire&gt;&gt;
+
+
+* &lt;&lt;designing_your_maker_faire&gt;&gt;
+
+
+* &lt;&lt;producing_the_event&gt;&gt;
+
+
+* &lt;&lt;marketing_the_event&gt;&gt;
+
+
+* &lt;&lt;week-of_and_day-of_event&gt;&gt;
+
+
+* &lt;&lt;after_your_maker_faire&gt;&gt;
+
+
+* &lt;&lt;index_of_assets&gt;&gt;
+
+This Playbook was conceived as a living document that will improve over time, as various Mini Maker Faire producers iterate and refine production methodologies that work. This is but a start. Please dig in, and let Maker Faire grow!
