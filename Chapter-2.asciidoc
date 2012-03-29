@@ -2,6 +2,9 @@
 
 == Introduction
 
+* point 1
+* point 2
+* point 3
 
 [[so_you_want_to_make_a_maker_fairequestio]]
 
