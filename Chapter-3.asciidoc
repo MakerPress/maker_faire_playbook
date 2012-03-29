@@ -1059,19 +1059,19 @@ The Call for Makers process involves five steps:
 . <<one_decide_on_your_call_for_makers_openi>>
 
 
-. &lt;&lt;two_set_up_an_online_form&gt;&gt;
+. <<two_set_up_an_online_form>>
 
 
-. &lt;&lt;three_promote_the_call_for_makers&gt;&gt;
+. <<three_promote_the_call_for_makers>>
 
 
-. &lt;&lt;four_accept_makers&gt;&gt;
+. <<four_accept_makers>>
 
 
-. &lt;&lt;fivedot_reject_applicants&gt;&gt;
+. <<fivedot_reject_applicants>>
 
 
-. &lt;&lt;sixdot_collect_fire_safety_plans_as_need&gt;&gt;
+. <<sixdot_collect_fire_safety_plans_as_need>>
 
 
 . Receive signed Maker Participation Agreements.
@@ -1092,7 +1092,7 @@ The amount of time your Call for Makers is open depends on how much lead time yo
 
 Forms on the Internet are getting simpler and easier to use all the time. In 2010 we used Wufoo.com for our maker application form and a Google Docs spreadsheet to track our Makers. In 2011, we’re likely to use Google Docs exclusively, as there’s no exporting of data involved (it just flows instantly into a Google Docs spreadsheet). There’s also easy embedding, so you can insert your form into a website. And Google Docs is free.
 
-You are welcome to copy and customize this link:$$https://spreadsheets.google.com/ccc?key=0au5l4qg_1mhtdglaafl4dmzqenjdnjc2ouztrkjzq0e&amp;hl=en&amp;authkey=ckja2mqf$$[Call for Makers form from the 2011 East Bay Mini Maker Faire] (from there select &gt;File, &gt;Make a Copy; view the finished link:$$https://spreadsheets.google.com/viewform?formkey=dglaafl4dmzqenjdnjc2ouztrkjzq0e6mq$$[form] here).
+You are welcome to copy and customize this link:$$https://spreadsheets.google.com/ccc?key=0au5l4qg_1mhtdglaafl4dmzqenjdnjc2ouztrkjzq0e&amp;hl=en&amp;authkey=ckja2mqf$$[Call for Makers form from the 2011 East Bay Mini Maker Faire] (from there select >File, >Make a Copy; view the finished link:$$https://spreadsheets.google.com/viewform?formkey=dglaafl4dmzqenjdnjc2ouztrkjzq0e6mq$$[form] here).
 
 Or you can make your own from scratch. Setting up a Google Docs form is very easy:
 
@@ -1128,25 +1128,25 @@ Here are some ways of doing it:
 
 [options="normal"]
 
-* _Blog Post._link:$$http://www.google.com/url?q=http%3a%2f%2febmakerfaire.wordpress.com%2f2010%2f06%2f03%2fcalling-all-makers%2f&amp;sa=d&amp;sntz=1&amp;usg=afqjcnglfn9duqkt9g35abtbglynwhc-gg$$[Write a post announcing the Call for Makers] describing your event, the kinds of exhibits you are looking for, and the opening and closing dates for the Call for Makers. Follow this post with others announcing great “headliner” makers that you have already pre-booked (see “link:$$http://www.google.com/url?q=http%3a%2f%2febmakerfaire.wordpress.com%2f2010%2f06%2f09%2four-first-maker-howtoons-plus-michael-chabon-making-comics-2%2f&amp;sa=d&amp;sntz=1&amp;usg=afqjcnf4zrvynihkawkwgt_yk_-wpes7ag$$[Our First Maker]”) to generate excitement, news coverage, and word of mouth. (Twitter and post on Facebook every time you publish on your blog—more on websites and social media in &lt;&lt;marketing_the_event&gt;&gt;.
+* _Blog Post._link:$$http://www.google.com/url?q=http%3a%2f%2febmakerfaire.wordpress.com%2f2010%2f06%2f03%2fcalling-all-makers%2f&amp;sa=d&amp;sntz=1&amp;usg=afqjcnglfn9duqkt9g35abtbglynwhc-gg$$[Write a post announcing the Call for Makers] describing your event, the kinds of exhibits you are looking for, and the opening and closing dates for the Call for Makers. Follow this post with others announcing great “headliner” makers that you have already pre-booked (see “link:$$http://www.google.com/url?q=http%3a%2f%2febmakerfaire.wordpress.com%2f2010%2f06%2f09%2four-first-maker-howtoons-plus-michael-chabon-making-comics-2%2f&amp;sa=d&amp;sntz=1&amp;usg=afqjcnf4zrvynihkawkwgt_yk_-wpes7ag$$[Our First Maker]”) to generate excitement, news coverage, and word of mouth. (Twitter and post on Facebook every time you publish on your blog—more on websites and social media in <<marketing_the_event>>.
 
 
-* _Email blasts._Email a short blurb to all your contacts with a link to your form. To do this, start building your master database or a contact list of organizations and makers you want to invite. You can use a variety of tools for your master database or contact list (see &lt;&lt;maker_management_tools&gt;&gt; for more information). Be careful when using a personal account not to email too many addresses at one time or your account could be tagged as a spammer. Consider using a (free) mail blast service like MailChimp.com.
+* _Email blasts._Email a short blurb to all your contacts with a link to your form. To do this, start building your master database or a contact list of organizations and makers you want to invite. You can use a variety of tools for your master database or contact list (see <<maker_management_tools>> for more information). Be careful when using a personal account not to email too many addresses at one time or your account could be tagged as a spammer. Consider using a (free) mail blast service like MailChimp.com.
 
 
-* _Facebook Posts/Twitter Posts._Let the people do the work for you! Announce your Call for Makers and all updates about your event via your Facebook and Twitter feeds. Ask your audience to “RT” (retweet) and “share.” (See &lt;&lt;social_media&gt;&gt; for more information.)
+* _Facebook Posts/Twitter Posts._Let the people do the work for you! Announce your Call for Makers and all updates about your event via your Facebook and Twitter feeds. Ask your audience to “RT” (retweet) and “share.” (See <<social_media>> for more information.)
 
 
 * _Public Service Announcement._If radio is big in your community, it’s really easy these days to write and record a 15 or 20 or 30 second public service announcement. (We used Garage Band on a recent MacBook to record our .mp3 file.) Here is an example script:
 
 _Maker Faire is coming to Oakland on Sunday, October 24th. Over 100 exhibits, activities, workshops, rides, craft booths and bands—all in a spirit of Do-It-Yourself. Build a rocket, make a Halloween costume, and so much more! Get tickets for the East Bay Mini Maker Faire at ebmakerfaire.com._
 
-(See &lt;&lt;public_relations&gt;&gt; for more information.)
+(See <<public_relations>> for more information.)
 
 _Celebrate!_ If you have the bandwidth, do a meet-up at some bar or community gathering spot to honor the opening or closing of the Call. You’ll build community and get the word out.
 
 
-* _Press Release or Post Announcement._Many print publications and broadcast outlets still appreciate press releases, and they often require a significant lead time to include your event in their calendar or to be considered as a story. Read, copy, and customize link:$$https://docs.google.com/document/d/1dixmvlmthrctwpdncqcdq3o7kqiyrcsedpvamc19tys/edit?hl=en&amp;authkey=cmeqjmom$$[this example of a Call for Makers Press release]. (See &lt;&lt;public_relations&gt;&gt; for more information.)
+* _Press Release or Post Announcement._Many print publications and broadcast outlets still appreciate press releases, and they often require a significant lead time to include your event in their calendar or to be considered as a story. Read, copy, and customize link:$$https://docs.google.com/document/d/1dixmvlmthrctwpdncqcdq3o7kqiyrcsedpvamc19tys/edit?hl=en&amp;authkey=cmeqjmom$$[this example of a Call for Makers Press release]. (See <<public_relations>> for more information.)
 
 
 [[four_accept_makers]]
@@ -1173,7 +1173,7 @@ However hard it is to say “no”, do send those applicants who don’t fit you
 
 As you prepare for the event, you may have to get an approval from a fire marshal. For the well-being of your attendees and all your makers, vendors, performers, staff, etc., you will want to flag any exhibit that can pose a danger to the exhibitor or a visitor. Any exhibits or performances with fire, explosions, hazardous chemicals, launches, sharp or otherwise dangerous materials or tools should be accompanied by a safety plan. It will make both you and the maker more confident that you are all aware of the foreseeable risks, considered possible consequences, and have taken all the precautions you could to ensure everyone’s safety.
 
-See &lt;&lt;propanecomma_gasolinecomma_and_other_fue&gt;&gt; for more information on fire; you are also welcome to copy and adapt this link:$$https://docs.google.com/document/d/1zyz-epkuzstnn9oderqjzpqinpr7mrxy6dpxwofo7h8/edit?hl=en&amp;authkey=coqw_pqm$$[fire safety plan form] from East Bay Mini Maker Faire.
+See <<propanecomma_gasolinecomma_and_other_fue>> for more information on fire; you are also welcome to copy and adapt this link:$$https://docs.google.com/document/d/1zyz-epkuzstnn9oderqjzpqinpr7mrxy6dpxwofo7h8/edit?hl=en&amp;authkey=coqw_pqm$$[fire safety plan form] from East Bay Mini Maker Faire.
 
 
 [[sevendot_collect_signed_participation_ag]]
@@ -1373,14 +1373,14 @@ Maker Faire has provided a variety of design elements (e.g. flags) as well as de
 
 * Banners
 
-Please see the &lt;&lt;index_of_assets&gt;&gt; for links to these files.
+Please see the <<index_of_assets>> for links to these files.
 
 
 [[maker_faire_pennant_flags]]
 
 ===== Maker Faire Pennant Flags
 
-One of the cornerstones of the Maker Faire brand identity is the inexpensive, cheerful multi-colored pennant flags. Reminiscent of county faires, these flags brighten up any room, tent, stage, ticket line, entrance and more. _Maker Faire requires that your faire purchase at least 5 of these pennant strings (smallest faires) and up to 30 of these for larger-sized faires._ Please refer to &lt;&lt;recommended_vendors_ampersand_pricing_gu&gt;&gt; under Resources, or email the Google Producer’s Group for most current internet pricing and source.
+One of the cornerstones of the Maker Faire brand identity is the inexpensive, cheerful multi-colored pennant flags. Reminiscent of county faires, these flags brighten up any room, tent, stage, ticket line, entrance and more. _Maker Faire requires that your faire purchase at least 5 of these pennant strings (smallest faires) and up to 30 of these for larger-sized faires._ Please refer to <<recommended_vendors_ampersand_pricing_gu>> under Resources, or email the Google Producer’s Group for most current internet pricing and source.
 
 
 [[ticketing_and_registration]]
@@ -1929,7 +1929,7 @@ Essentially the media sponsor package will be a list of exposure opportunities�
 
 Review and adapt this media sponsor agreement from Maker Faire Bay Area: link:$$https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=14dmcao0ln61u9zmdpoviiy4np_erxopki3adwpp_yts56vxojhlh6tl9qzyr&amp;hl=en_us$$[Maker Faire Bay Area Media and Community Sponsor Package]
 
-And see &lt;&lt;public_relations&gt;&gt; for more on media outreach.
+And see <<public_relations>> for more on media outreach.
 
 
 [[ticketing_program]]
@@ -2005,7 +2005,7 @@ And don’t forget:
 
 * _Comp Tickets._ Invest in the future of your event. Give away tickets to the Mayor, to the venue neighbors, to potential sponsors and generate good-will, positive impressions, and community support.
 
-(See &lt;&lt;registration_ampersand_entrance&gt;&gt; below for more on day-of ticketing and registration.)
+(See <<registration_ampersand_entrance>> below for more on day-of ticketing and registration.)
 
 
 [[community_support]]
@@ -2132,7 +2132,7 @@ Commercial Makers or Vendors sell goods at your event, but they should still ech
 
 Commercial Makers should pay a fee for this sales opportunity. They may pay different amounts, depending on their offering. How much you charge depends on the number of visitors you anticipate and how many competitors you are featuring at the event.
 
-You may choose to have a contract for your vendors, with waivers and an articulation of your expectations.link:$$https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0b-5l4qg_1mhtyme4mwe2ytktntu3zs00zwjjlwfingitowm4otnkzgi0ytnh&amp;hl=en&amp;authkey=cmdktf8g$$[Copy and customize the maker agreement]. You should also have them fill out your Call for Makers, or a special vendor application. (See &lt;&lt;quotation_markcall_for_makersquotation_m&gt;&gt; for more on this.)
+You may choose to have a contract for your vendors, with waivers and an articulation of your expectations.link:$$https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0b-5l4qg_1mhtyme4mwe2ytktntu3zs00zwjjlwfingitowm4otnkzgi0ytnh&amp;hl=en&amp;authkey=cmdktf8g$$[Copy and customize the maker agreement]. You should also have them fill out your Call for Makers, or a special vendor application. (See <<quotation_markcall_for_makersquotation_m>> for more on this.)
 
 As far as accepting payments, you can either accept hard cash, checks, or share a PayPal account address for payments over the Internet (you’ll pay a little percentage to PayPal, but it’s nice to get the money fast).
 
@@ -2150,7 +2150,7 @@ Hint_Farmer’s markets are good resources for both pricing guidelines and for f
 
 ===== Commercial Makers
 
-&lt;&lt;commercial_makers-id00004&gt;&gt; are those vendors selling (presumably local) handmade items. They are makers who are trying to generate a little (or a lot of!) cash from your attendees. They should go through the maker application process so you can see examples of their work and so you can curate a good exhibition of crafters. (You’ll likely get duplicates of certain kinds of items like jewelry, t-shirts and clothing, so the application process gives you a chance to edit your selection of crafters.)
+<<commercial_makers-id00004>> are those vendors selling (presumably local) handmade items. They are makers who are trying to generate a little (or a lot of!) cash from your attendees. They should go through the maker application process so you can see examples of their work and so you can curate a good exhibition of crafters. (You’ll likely get duplicates of certain kinds of items like jewelry, t-shirts and clothing, so the application process gives you a chance to edit your selection of crafters.)
 
 Commercial makers are used to paying for their space. (We charged our first-year 2010 East Bay Mini Maker Faire commercial makers $100 for their booths.)
 
@@ -2176,7 +2176,7 @@ Hint_Communicate with your vendors! Poll them individually after the event, see 
 ====
 
 
-We found there are several types of food and beverage vendors, each with their own requirements. (See section &lt;&lt;interfacing_with_local_agencies&gt;&gt; for more on food permitting.)
+We found there are several types of food and beverage vendors, each with their own requirements. (See section <<interfacing_with_local_agencies>> for more on food permitting.)
 
 _Commercial fair-food vendors (booths and trucks)._These are the businesses that specialize in temporary food vending. They show up at every kind of street fair and farmers’ market. They are used to the permit requirements (almost always), and are all set with signage, menus, etc. Usually they are professional and good at managing surges in demand (e.g. lunchtime).
 
@@ -2203,7 +2203,7 @@ _Alcohol._Maker Faire is a family event. It’s also more about “doing” and 
 
 If your leadership team and your venue are OK with doing it at a family event, and you have the people-power to pull it off, selling alcohol is another great opportunity raise money.
 
-Contact a local beer company—the more “maker” or artisanal, the better—and ask them to sponsor your event. (See &lt;&lt;funding_your_maker_faire&gt;&gt; for more on sponsorships.) The ideal scenario is that the brewer or distributor receives publicity in exchange for the free kegs. If that is not possible, the cost of buying kegs will very likely be covered by your sales.
+Contact a local beer company—the more “maker” or artisanal, the better—and ask them to sponsor your event. (See <<funding_your_maker_faire>> for more on sponsorships.) The ideal scenario is that the brewer or distributor receives publicity in exchange for the free kegs. If that is not possible, the cost of buying kegs will very likely be covered by your sales.
 
 
 [[sponsors]]
@@ -2219,7 +2219,7 @@ Like vendors, exhibiting sponsors should submit a maker application so you can a
 
 ==== Layout Design
 
-You might think of layout or site planning primarily as a logistical item (see &lt;&lt;layout_guidelines&gt;&gt; in Operational Elements), but how people feel as they move through your venue and exhibits heavily influences their satisfaction in the end.
+You might think of layout or site planning primarily as a logistical item (see <<layout_guidelines>> in Operational Elements), but how people feel as they move through your venue and exhibits heavily influences their satisfaction in the end.
 
 In the product design world, this factor is called “user experience design.” Put yourself in the place of an attendee and move through the event with them in mind. Design for human intuition and for ease of use. Lay the event out as if you are telling a story to someone you do NOT know. The story has a beginning, middle and an end—a narrative laden with surprises and digressions but with deliberate rhythm and pacing and closure.
 
@@ -2401,7 +2401,7 @@ _Mini Maker Faire Income:_
 
 Ideally the leadership team would be looking at updated budgets (projections &amp; costs-to-date) every other week.
 
-See &lt;&lt;creating_an_event_budget&gt;&gt; for more information on budget.
+See <<creating_an_event_budget>> for more information on budget.
 
 
 [[maker_management_tools]]
@@ -2473,7 +2473,7 @@ There is an opportunity here to make this gathering more social (pot-luck or mee
 
 ===== Media Referrals
 
-Most makers love the exposure Maker Faire brings to their work. Have your PR team or leader prepared with a list of different kinds of makers with contact information and a little description of their work. This will enable you to pass on reporters directly to your makers, giving them some well-deserved attention. (See &lt;&lt;public_relations&gt;&gt; and &lt;&lt;managing_media_requests&gt;&gt; for more information.)
+Most makers love the exposure Maker Faire brings to their work. Have your PR team or leader prepared with a list of different kinds of makers with contact information and a little description of their work. This will enable you to pass on reporters directly to your makers, giving them some well-deserved attention. (See <<public_relations>> and <<managing_media_requests>> for more information.)
 
 
 [[maker_dinner]]
@@ -2496,7 +2496,7 @@ This section is dedicated to helping you with managing and pre-thinking the phys
 
 ===== Layout Guidelines
 
-When you are mapping out your site plan, keep these operational recommendations in mind. Check out &lt;&lt;layout_design&gt;&gt; for more aesthetic layout suggestions.
+When you are mapping out your site plan, keep these operational recommendations in mind. Check out <<layout_design>> for more aesthetic layout suggestions.
 
 _Maker booth grid_
 
@@ -2623,7 +2623,7 @@ _Bike parking_
 * Put bike parking in a visible spot near your entrance/registration.
 
 
-* Enclose and staff it if possible, or place security nearby. (See &lt;&lt;ch03note03&gt;&gt; for more resources on bike parking.)
+* Enclose and staff it if possible, or place security nearby. (See <<ch03note03>> for more resources on bike parking.)
 
 _Parking_
 
@@ -2670,7 +2670,7 @@ _Load-In Entrances, including during event_
 _Accessibility for Disabled_
 
 
-* See &lt;&lt;accessibility_plan&gt;&gt; section.
+* See <<accessibility_plan>> section.
 
 
 [[mapping_your_site]]
@@ -2686,9 +2686,9 @@ Whatever the tool, it’s nice to be able to use different layers for different 
 
 ===== Equipment / Special Requirements
 
-Rentals get expensive—and watch out for delivery fees! Be sure to check with your venue to see what it comes with (see &lt;&lt;selecting_a_venue&gt;&gt; section). And then ask your production team members and extended community before engaging party supply rental vendors.
+Rentals get expensive—and watch out for delivery fees! Be sure to check with your venue to see what it comes with (see <<selecting_a_venue>> section). And then ask your production team members and extended community before engaging party supply rental vendors.
 
-Please see &lt;&lt;resources-id00005&gt;&gt; section below for pricing guidelines and online resources.
+Please see <<resources-id00005>> section below for pricing guidelines and online resources.
 
 
 [[staging]]
@@ -3185,7 +3185,7 @@ Hint_Never announce that you have a lost child over the public address system. A
 
 It is very possible most Mini Maker Faire producers will never have to deal with fire permits or makers who excel in fire arts. However, if your call for makers attracts glass blowers, blacksmiths, or welders you will likely be entering the world of fire permits and fuel storage.
 
-Food vendors using any fuel are likely required to be inspected by the fire department as well. Most of their compliance, however, comes via the health permit process. (Please see &lt;&lt;interfacing_with_local_agencies&gt;&gt;.)
+Food vendors using any fuel are likely required to be inspected by the fire department as well. Most of their compliance, however, comes via the health permit process. (Please see <<interfacing_with_local_agencies>>.)
 
 Vendors and makers utilizing fuel in exhibits and storing fuel on site will need to complete and submit a fire plan link:$$https://docs.google.com/document/d/1zyz-epkuzstnn9oderqjzpqinpr7mrxy6dpxwofo7h8/edit?hl=en&amp;authkey=coqw_pqm$$[(see a sample fire plan here)]. A fire plan is a document that describes the use of fire in an exhibit, and articulates the risks and the risk mitigation strategies for using a fire in a public venue. Depending on your fire inspector, you may need to submit your maker fire plans to the fire department or the inspector himself as well.
 
@@ -3320,7 +3320,7 @@ Incentives help to recruit volunteers. If your Mini Maker Faire costs money, fre
 
 Publicize the Call for Volunteers through every means necessary: Facebook, newsletters, Twitter, craigslist, newspapers, radio. Emails to individuals connected directly to your sponsoring organization(s) are likely to produce the most sign-ups. Ask your current volunteers to reach out themselves.
 
-If possible, get volunteers to sign an agreement. (See &lt;&lt;volunteer_agreements&gt;&gt; below.) You don’t want people to flake out at the last minute; signing an agreement will likely filter the flakes in advance.
+If possible, get volunteers to sign an agreement. (See <<volunteer_agreements>> below.) You don’t want people to flake out at the last minute; signing an agreement will likely filter the flakes in advance.
 
 Train your volunteers. Gather them before the event to go over expectations, rules, the site plan, and the safety plan.
 
@@ -3382,7 +3382,7 @@ Areas that should definitely have some orientation/pre-articulated processes:
 
 ===== Volunteer Agreements
 
-The large Maker Faires ask volunteers to sign a volunteer agreement to minimize no-shows and to increase commitment to the event. Write minimakerfaire@oreilly.com if you would like to see an example of a &lt;&lt;volunteer_agreements&gt;&gt;.
+The large Maker Faires ask volunteers to sign a volunteer agreement to minimize no-shows and to increase commitment to the event. Write minimakerfaire@oreilly.com if you would like to see an example of a <<volunteer_agreements>>.
 
 
 [[marketing_the_event]]
@@ -3445,7 +3445,7 @@ Here are some questions to ask and try and answer for your marketing plan:
 
 ==== Ticketing Mechanisms
 
-If you are using an online ticketing service like link:$$http://www.google.com/url?q=http%3a%2f%2feventbrite.com&amp;sa=d&amp;sntz=1&amp;usg=afqjcne43ai4fy6gibzl66ikvfkopkiggw$$[Eventbrite] (see &lt;&lt;ticketing_program&gt;&gt;), there are a plethora of marketing mechanisms that can really improve visibility for your event.
+If you are using an online ticketing service like link:$$http://www.google.com/url?q=http%3a%2f%2feventbrite.com&amp;sa=d&amp;sntz=1&amp;usg=afqjcne43ai4fy6gibzl66ikvfkopkiggw$$[Eventbrite] (see <<ticketing_program>>), there are a plethora of marketing mechanisms that can really improve visibility for your event.
 
 
 [[discount_codes]]
@@ -3541,7 +3541,7 @@ Some basics to follow:
 . _Identify needed design assets._You may need to design some buttons (“Buy Tickets Now!”). Proof and test—it’s always amazing what simple things get missed.
 
 
-. _Write and publish your first post!_See &lt;&lt;blog_left_parenthesiswebsiteright_parent&gt;&gt; below.
+. _Write and publish your first post!_See <<blog_left_parenthesiswebsiteright_parent>> below.
 
 [[ch03note32]]
 [NOTE]
@@ -3568,7 +3568,7 @@ Here are some basic types of content that your audience will enjoy and that isn�
 
 _About Maker Faire and Your Maker Faire._Introduce your audience to Maker Faire and MAKE. Stir emotions with your passion for Maker Faire. Tell everyone why you’re in it, and who is in with you.
 
-Maker Faire also requests that you include particular About language explaining MAKE, Maker Faire, and O’Reilly Media. Please see &lt;&lt;working_with_maker_faire&gt;&gt; for the actual language.
+Maker Faire also requests that you include particular About language explaining MAKE, Maker Faire, and O’Reilly Media. Please see <<working_with_maker_faire>> for the actual language.
 
 _Meet the Maker._Publish interviews or profiles of individual makers. This is where you can provide some payback to the makers that are providing all this gravity for your event. Show them off! Give them the attention they deserve. Check out makezine.com for link:$$http://blog.makezine.com/archive/2011/04/maker-faire-bay-area-colossus-interview.html$$[examples of maker interviews].
 
@@ -3963,7 +3963,7 @@ First, it’s smart to have your maker check-in in a different location than you
 
 How you manage maker check-in depends on how you’ve processed their complimentary passes. The simplest procedure is to have a printed list of your makers with the number of comps (and ideally the name of those comped volunteers). Cross names off when people arrive. If your list is long, divide it up alphabetically and make corresponding check-in “lanes.”
 
-If you are using Eventbrite and you have Internet, you can process makers much like ticket purchasers (see &lt;&lt;registration_ampersand_entrance&gt;&gt; below).
+If you are using Eventbrite and you have Internet, you can process makers much like ticket purchasers (see <<registration_ampersand_entrance>> below).
 
 When makers check-in, distribute any other remaining information, swag, and some maker identification. Badges or stickers or lanyards will help your makers get in and out during the day, plus it sets the makers apart from the crowd, making them feel good and helping the crowd know who to pay attention to.
 
@@ -4060,7 +4060,7 @@ Other event design hints for registration to keep in mind:
 * Decorate the area with Maker Faire flag pennant strings and banners. Make it look fun.
 
 
-* Pass out any printed materials here (&lt;&lt;program&gt;&gt;), or have big informational signage available once people get through the “gates.”
+* Pass out any printed materials here (<<program>>), or have big informational signage available once people get through the “gates.”
 
 
 * Consider staffing an information table and posting a blow-up site map and program of events nearby.
@@ -4148,7 +4148,7 @@ Be prepared from representatives from local agencies (fire and health most likel
 
 If you’ve done outreach to press, reporters will start to call you just as things get really busy. One of the benefits of being really well prepared is that you can make time for reporters to give interviews and tours. Getting that during- and post-event coverage is a great way to seed interest for next year, so try and be available.
 
-See &lt;&lt;public_relations&gt;&gt; for more information on how to pre-arm yourself with maker contact information. Give away comps to press to get the coverage.
+See <<public_relations>> for more information on how to pre-arm yourself with maker contact information. Give away comps to press to get the coverage.
 
 
 [[meet_your_makers]]
@@ -4179,7 +4179,7 @@ If at all possible, assign multiple photographers and videographers to cover the
 
 ===== Attendee &amp; Maker Surveys
 
-Sending the Maker Media Maker Faire Attendee and Maker Surveys is a requirement of the Mini Maker Faire partnership. Please see &lt;&lt;reporting_and_follow-up_to_maker_media&gt;&gt; for links and language.
+Sending the Maker Media Maker Faire Attendee and Maker Surveys is a requirement of the Mini Maker Faire partnership. Please see <<reporting_and_follow-up_to_maker_media>> for links and language.
 
 
 [[blog_posts]]
@@ -4273,7 +4273,7 @@ Before everyone disperses, ask your volunteers and team leaders to revise their 
 
 Maker Faire and MAKE would _very much appreciate_ your sharing some artifacts from your Faire. These assets help build the national and international community of makers, and enable us to invite makers and attendees to join the Make community by either being featured in our publications, or subscribe to them.
 
-Be sure to fill out the &lt;&lt;producersapostrophe_post_event_report_so&gt;&gt; within 30 days of your event. Please see &lt;&lt;reporting_and_follow-up_to_maker_media&gt;&gt; for more information.
+Be sure to fill out the <<producersapostrophe_post_event_report_so>> within 30 days of your event. Please see <<reporting_and_follow-up_to_maker_media>> for more information.
 
 
 [[continuing_community_momentum]]
