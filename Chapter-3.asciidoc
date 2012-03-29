@@ -471,7 +471,7 @@ If you have a multi-floor interior space, are the elevators large enough for car
 
 ===== Variety of Spaces
 
-Your makers’ exhibits will vary greatly in needs; keep these possible requirements in mind when you are looking at the venue. (See &lt;&lt;layout_design&gt;&gt; and &lt;&lt;layout_guidelines&gt;&gt; for more on this subject.)
+Your makers’ exhibits will vary greatly in needs; keep these possible requirements in mind when you are looking at the venue. (See <<layout_design>> and <<layout_guidelines>> for more on this subject.)
 
 
 [options="normal"]
@@ -638,7 +638,7 @@ Below are some of the up-front costs and potential income you might have.
 * Sponsorship
 
 
-* Grants &amp; Donations
+* Grants & Donations
 
 
 [[sample_budget_anticipated_and_actual]]
@@ -655,7 +655,7 @@ You can also link:$$https://spreadsheets.google.com/ccc?key=0au5l4qg_1mhtdejpyvo
 |_EXPENSE_|_Anticipated_|_Actual_|_Notes_
 |_RENT_||||Park Day School venue|0|0|donation
 |Studio One venue|3500|3345||parking lot|0|200|||||
-|_PERMITS &amp; LICENSING_|1000|1138|||||
+|_PERMITS & LICENSING_|1000|1138|||||
 |_INSURANCE_|0|0|free rider to existing policy
 ||||
 |_FEES_||||credit card|0|10||Eventbrite fees|0|2092|||||
