@@ -1056,7 +1056,7 @@ The Call for Makers process involves five steps:
 
 [options="normal"]
 
-. &lt;&lt;one_decide_on_your_call_for_makers_openi&gt;&gt;
+. <<one_decide_on_your_call_for_makers_openi>>
 
 
 . &lt;&lt;two_set_up_an_online_form&gt;&gt;
