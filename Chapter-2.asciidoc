@@ -1,0 +1,264 @@
+[[introduction]]
+
+== Introduction
+
+
+[[so_you_want_to_make_a_maker_fairequestio]]
+
+=== So You Want to Make a Maker Faire?
+
+Maker Faire brings together families and individuals to celebrate the Do- It-Yourself (DIY) mindset and showcase all kinds of incredible projects. At Maker Faire, you’ll find arts and crafts, science and engineering, food and music, fire and water but what makes this event special is that all these interesting projects and smart, creative people belong together. They are actively and openly creating a maker culture.
+
+In its simplest form, Maker Faire creates conversations with Makers. It is a show-and-tell format for people of all ages that brings out the “kid” in all of us. Maker Faire is a community-based learning event that inspires everyone to become a maker and connect to people and projects in their local community. Yet, Maker Faire is a “fair” which should be fun and engaging.
+
+The first link:$$http://www.makerfaire.com/$$[Maker Faire] started in 2006 in San Mateo, California, organized by link:$$http://www.google.com/url?q=http%3a%2f%2fmakezine.com%2f&amp;sa=d&amp;sntz=1&amp;usg=afqjcngiotvzjbmvixuhamp2luskyjkoeg$$[Make Magazine]. In its fifth year, our Bay Area event is a weekend-long celebration featuring 700+ Makers and attracting over 70,000 visitors. Similar large-scale Maker Faires have been organized in Austin, Detroit, and New York City. However, the idea of Maker Faire can work at almost any scale.
+
+So, we’ve begun this great experiment to spread Maker Faire everywhere. As organizers, we know that we can’t bring Maker Faire to all the communities that want one. We share what we’ve learned organizing Maker Faire, and we help others organize their local version to reflect the spirit and ingenuity of their community. We can’t produce Maker Faire everywhere unless there are special people who take on the job of organizing local Maker Faires.
+
+We call independently-organized events “Mini Maker Faires.” Community-driven Mini Maker Faires have sprouted up around the United States, with events in Ann Arbor, Sebastopol, Aspen, Kansas City, Durham, Oakland, and Boston. Canada now has two Mini Maker Faires, the first in Ottawa and the second in Vancouver.
+
+We have created a process for individuals and organizations interested in organizing and hosting a Maker Faire. Of course, we have some concerns in opening Maker Faire and allowing others to produce events using the Maker Faire brand. We believe there’s a vision and design of Maker Faire that we want all events to share. We want anyone who comes to a Maker Faire to have fun and be inspired. Each Maker Faire should contribute to the growth and development of maker culture. We also know from organizing these events ourselves that the planning and production of Maker Faire is demanding and difficult. In other words, doing a Maker Faire might sound fun, and it is, but it is also exhausting. Seeing Maker Faire come to life in your community and seeing what it means to people, not just during the event, but months later, is incredibly rewarding and deeply satisfying.
+
+
+[[what_goes_into_creating_maker_fairequest]]
+
+=== What Goes Into Creating Maker Faire?
+
+Maker Faire is truly a co-creation. It’s a collaboration of many people, especially makers, who each contribute to the event. However, Maker Faire also requires a strong person or core group with the vision and passion to create the context for all this to happen. Maker Faire requires extensive preparation and planning in advance of the event and complex coordination with a larger team during the event.
+
+
+[[build_a_network_of_makers]]
+
+==== Build a Network of Makers
+
+The first key to creating a successful event is building a network of makers, and making sure that this network is truly inclusive of all kinds of making that one can find in your community. It’s not enough to just organize the members of a hackerspace or robotics club or local crafters. You have to find artists and engineers, scientists and crafters, and assorted makers who don’t fit into any category. Think of the first step as community organizing, reaching out to find new makers and connect them together through the event. Makers may be individuals or groups. They may be institutions such as museums or libraries. They may be teachers or students.
+
+
+[[create_a_showcase_of_creative_work]]
+
+==== Create a Showcase of Creative Work
+
+Our experience is that about 50% of the makers come in through our open application process and about 50% is the result of active outreach to identify and draw in work from the community. A core group must act as curators to locate and review create work in the community and understand how best they might be featured.
+
+Maker Faire provides a venue for makers to show examples of their work and interact with others about it. Many makers tell us that they have no other place to show what they do. It is often out of the spotlight of traditional art or science or craft events. DIY often is invisible in our communities, taking place in shops, garages and kitchen tables. So the goal of the event is to make visible the projects and ideas that we don’t encounter every day. Maker Faire, like any fair, might include traditional forms of making but it is primarily designed to be forward-looking, exploring new forms and new technologies.
+
+
+[[offer_engagingcomma_hands-on_interaction]]
+
+==== Offer Engaging, Hands-on Interaction
+
+Maker Faire is interactive and educational in all kinds of ways. Maker Faire is not a passive sit-down experience; it’s a hands-on experience that you grab hold of. From simple conversations and detailed explanations to amazing do-it-yourself demonstrations, Maker Faire is all about participation and sharing. Many Makers develop exhibits with hands-on activities, and you should encourage them to do so. Others bring unusual objects that we don’t see everyday, and you should feature them prominently. All of that creates a stimulating event, which is sometimes over-stimulating!
+
+Maker Faire rewards curiosity. We get to learn how things work, and why. We get to try new things and understand that we can expand our own capabilities. We consider the _process_ of making as important as the perfect, finished product. Sharing the process with others creates new opportunities for learning.
+
+
+[[support_grassroots_innovation_in_the_com]]
+
+==== Support Grassroots Innovation in the Community
+
+Many makers are hobbyists and enthusiasts but they are also a source of innovation, creating new products and producing value in the community. Some makers become entrepreneurs and start companies. This is grassroots innovation that we can foster in every community. Maker Faire also celebrates the fun and freedom of being an amateur who create a stimulating environment out of which new ideas emerge.
+
+
+[[all_of_us_are_makers]]
+
+==== All of us are Makers
+
+Maker Faire offers the opportunity for us to see ourselves as more than consumers; we are productive; we are creative. Everyone is a maker and our world is what we make it.
+
+
+[[what_maker_faire_is_not]]
+
+=== What Maker Faire is Not
+
+Maker Faire is not a trade show. We see Maker Faire primarily as an opportunity for people to share ideas and projects. So Maker Faire is non-commercial in nature, in that we don’t want it dominated by traditional sales and marketing. Instead, we hope to create authentic interactions that satisfy each person’s interests. At the same time, we’re not anti-commercial. We are grateful to have businesses as sponsors. We also allow makers to show their work and offer items for sale. We want to help makers succeed in starting a business, if that’s their goal. However, we don’t want to change the look and feel or spirit of the event.
+
+Maker Faire should not be become a platform for politics or religion.
+
+
+[[planning_your_mini_maker_faire]]
+
+=== Planning Your Mini Maker Faire
+
+Mini Maker Faires follow the larger Maker Faires in spirit and theme, and range in scale from intimate, 15-makers showcases to larger, regional and city-wide events featuring up to 100 Makers. We believe Maker Faire can succeed at different levels of scale.
+
+Three components of scale are number of Makers, number of attendees and capacity of the venue. All of these impact the budget of your event. In general, you should value the _quality_ of the Makers over the _quantity._ We’ve found that the number of makers participating will grow year to year.
+
+Here’s a depiction of the varying scale of “Minis:”
+
+
+|===============
+||Small|Medium|Large
+|Makers|5 to 15|25 to 50|50 to 100
+|Venue|1 room|1 building or tent|multiple bldgs
+|Attendees|300|1000|2500 to 6K
+|Length of Event|2 to 3 hours|6 to 8 hours|8 hours
+|Core Organizing Team|1|2|3 to 5
+|Additional Organizing Team|3 to 5|5 to 10|30 to 50+
+|Production Lead Time|3 months|6 months|12 months
+|Budget|under 10K|5K to 25K|15K to 60K
+|Marketing|very limited|some, perhaps through mother event|dedicated
+|Stage/Performances|no|maybe|yes
+|Attractions|no|no|yes
+|Workshops|no|maybe|yes
+|Security|no|maybe|yes
+|Insurance|maybe|probably|yes
+|Rentals|no|probably|yes
+
+|===============
+
+
+
+[[five_considerations_for_a_maker_faire]]
+
+=== Five Considerations for a Maker Faire
+
+Before deciding to organize a Maker Faire, consider each of the following areas. This will help you complete the Mini Maker Faire Application.
+
+
+[[leadership_team]]
+
+==== Leadership Team
+
+To create a Maker Faire, you need a leader and a leadership team who will work to make it happen. A leader is essential. You must be devoted to the vision of the event and willing to organize others to bring it off. However, you can’t do it alone. You must have several other people on the team whom you can count on. There are lots of tasks to do to produce an event of this kind, and a committed, core group of folks is required to get the job done. You will also need to develop an extended community of volunteers behind you to physically produce and staff the event. (This is where a network of co-sponsoring organizations can really help.)
+
+
+[[host_organization]]
+
+==== Host Organization
+
+Just about any scale of a Mini Maker Faire will require a host or partner organization. As soon as you begin to organize a venue rental, it will become clear that an entity will need to take the responsibility for signing on the dotted line. Ideally, this is a community-based non-profit. It could be a school, a library, museum or science center.
+
+An existing organization may bring valuable infrastructure in the following areas:
+
+
+* marketing and promotion
+
+
+* payment processing
+
+
+* receiver of money from grants or sponsorship
+
+
+* a pool of volunteers
+
+
+* access to existing relationships in the community
+
+
+* relevant experience from hosting other events
+
+Yet, it’s also important that Maker Faire not be defined in a limiting way by that organization’s mission and goals. Maker Faire needs to reflect the community’s culture in a very inclusive way. Even with a host organization, as many decisions as possible should reflect community involvement from lots of different groups. It’s key to their participation. Organizers of Maker Faire can help these groups reach important goals. For instance, a hobbyist club may have a goal of recruiting new members; a science center may have outreach programs that they’d like to bring to those who don’t already go to the center. In fact, leveraging the different audiences, network and resources of several groups can really help your event succeed. But keep in mind that one organization will need to step up as the business lead.
+
+
+[[location]]
+
+==== Location
+
+Your venue is the “frame” of your event. The design and feel of the space hugely influences the experience for Makers and guests. We have organized Maker Faire at public fairgrounds, science centers and history museums. Each venue has its own character and resonance.
+
+Consider the following in choosing a location:
+
+
+* indoor and outdoor space
+
+
+* accessible restrooms
+
+
+* sufficient parking nearby
+
+
+* required permits
+
+
+* convenient access for families and safe surroundings
+
+
+* good load-in access for trucks, etc.
+
+
+* electricity and Internet access
+
+
+* protection from inclement weather
+
+Some Mini Maker Faires have been co-located with other events. The host event can often take care of logistics and promotion, helping to provide access to an audience and reducing costs. A venue that requires rental fees will become one of your largest expenses.
+
+
+[[date_and_time]]
+
+==== Date and Time
+
+Typically, Mini Maker Faires are single-day events, usually a Saturday, and they run from about 10am to 3pm. Some run longer. Most of our events take place in nice weather to take advantage of the outdoors.
+
+In selecting a date, determine the best time of year for your event and, of course, avoid important holidays and other local events that might compete against yours. Ask the venue or host for available dates and consider how long in advance you must book the venue.
+
+Make sure to allow sufficient time in advance to organize the event. As a rule of thumb, allow six months of planning for an average 25-maker first-year event. Allow a year for events with 50-100 makers.
+
+
+[[resources]]
+
+==== Resources
+
+Mini Maker Faires have been produced with a budget as little as $3K. Of course, each event will be different. Some find sponsors or sell tickets to underwrite costs. Sometimes the host organization contributes to cover costs. In-kind sponsors can donate supplies and equipment to reduce costs.
+
+It’s important to create a budget that identifies what resources are available to you and their associated costs. If nothing else, have a budget number as an initial target. Up-front costs you might have to include:
+
+
+* venue rental
+
+
+* furniture rental (at a minimum, tables and chairs)
+
+
+* advertising
+
+
+* insurance
+
+
+* security
+
+
+* permits
+
+
+* design and printing of marketing collateral
+
+
+* equipment rentals
+
+
+* fuel
+
+
+* website and social media development
+
+You’ll likely need local sponsors to underwrite the event but it is not always easy to find funding.
+
+There are some risks from a number of factors including weather, which could affect turnout. A first-year Maker Faire could very well _lose_ money. Plan carefully and create a budget to estimate income and expenses. Make sure you have a core team member devoted to tracking costs and managing revenue.
+
+
+[[apply_for_a_mini_maker_faire_license]]
+
+=== Apply for a Mini Maker Faire License
+
+If you have decided to organize a Mini Maker Faire, please complete our link:$$https://spreadsheets.google.com/viewform?formkey=dgr0t2hyshrimtfwmwd4evhodwduawc6ma$$[Mini Maker Faire Application]. This will help us better understand your goals, resources and commitment.
+
+Once your application has been received, we will send you a single-event licensing agreement to sign. This agreement is a simple legal contract that articulates basic requirements for producing a Mini Maker Faire in exchange for use of the Maker Faire brand. In plain words, the agreement states that you have a twelve-month period in which to organize one Mini Maker Faire, and that Maker Faire is not responsible for losses or risks associated with your event.
+
+Once an agreement has been signed, you will gain access to additional resources:
+
+
+* The Mini Maker Faire Playbook—an extensive production-planning resource PDF and wiki that covers planning, promotion, curation, budgeting, logistics, volunteers, design templates and much more.
+
+
+* A custom Mini-Maker Faire logo.
+
+
+* Access to the Mini Maker Faire producers’ Google discussion group.
+
+In the meantime, if you are serious about putting on a Mini Maker Faire, please invest the time in coming and experiencing a “big” link:$$http://www.google.com/url?q=http%3a%2f%2fmakerfaire.com&amp;sa=d&amp;sntz=1&amp;usg=afqjcneiauziocsariowm8-hkcnebqmknq$$[Maker Faire]. We can write and write and write about a Maker Faire, but it’s nothing like attending one yourself!
+
+Thanks for your interest and we look forward to working with you.
