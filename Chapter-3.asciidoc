@@ -675,7 +675,7 @@ You can also link:$$https://spreadsheets.google.com/ccc?key=0au5l4qg_1mhtdejpyvo
 ||||
 |_MAKER REIMBURSEMENTS_|2200|2175|split betw 6 makers
 ||||
-|_ADVERTISING &amp; PROMOTION/PRINTING_||||website|50|0|missing – approx $50
+|_ADVERTISING & PROMOTION/PRINTING_||||website|50|0|missing – approx $50
 |Facebook advertising|200|0|Didn’t do
 |East Bay Express advertising|200|200|they said they’d want $1200 2nd year!
 |1000 11“x17” posters|500|384||postcards|0|0|didn’t do
@@ -733,7 +733,7 @@ A typical Maker Faire actually has a few sub-sets of Makers. The Call for Makers
 . _Makers._These are the individuals or groups who are demonstrating a skill or craft, showing a finished piece of work and explaining it, and/or teaching a skill or leading a hands-on activity. Makers can be anyone from yarn spinners to hackers to terrarium makers to alt energy vehicles to the learn-to-solder booth.
 
 
-. _Commercial Makers (Vendors)._These are the folks or businesses that want to sell stuff at your Faire. They can be handmade craft vendors, techie kit companies, and even food/drink concessioners. Vendors are used to paying for their space; you should be prepared to share information about what you are charging (see &lt;&lt;designing_your_maker_faire&gt;&gt;)
+. _Commercial Makers (Vendors)._These are the folks or businesses that want to sell stuff at your Faire. They can be handmade craft vendors, techie kit companies, and even food/drink concessioners. Vendors are used to paying for their space; you should be prepared to share information about what you are charging (see <<designing_your_maker_faire>>)
 
 
 . _Performers._Musicians and dancers and snake charmers fit this group. They are the stage show.
